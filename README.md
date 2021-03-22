@@ -42,8 +42,9 @@ atendimento para aqueles com menor condições financeira e segundo momento, B2B
 
 O projeto foi feito com as seguintes tecnologias:
 
-- [ReactJS](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 - [Styled-Components](https://styled-components.com/)
+- [UnForm](https://unform.dev/)
 {...}
 
 ## :thinking: Como Contribuir?
