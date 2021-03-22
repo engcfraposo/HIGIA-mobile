@@ -1,14 +1,14 @@
 <div align="center" style="margin-bottom: 20px;">
-<img alt="Higia-WEB" src="./img/logo.jfif" width="auto" heigth="auto"/>
+<img alt="Higia-MOBILE" src="./img/logo.jfif" width="auto" heigth="auto"/>
 </div>
 
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/engcfraposo/Higia-WEB/LICENSE.md)
-![GitHub last commit](https://img.shields.io/github/last-commit/engcfraposo/Higia-WEB?color=green&style=flat-square)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/engcfraposo/Higia-WEB_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=engcfraposo/jst-job-challenges-frontend&amp;utm_campaign=Badge_Grade)
-![GitHub top language](https://img.shields.io/github/languages/top/engcfraposo/Higia-WEB?style=flat-square)
-<a href="https://github.com/engcfraposo/Higia-WEB/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/engcfraposo/Higia-WEB?style=social">
+[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/engcfraposo/Higia-MOBILE/LICENSE.md)
+![GitHub last commit](https://img.shields.io/github/last-commit/engcfraposo/Higia-MOBILE?color=green&style=flat-square)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/engcfraposo/Higia-MOBILE_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=engcfraposo/Higia-MOBILE&amp;utm_campaign=Badge_Grade)
+![GitHub top language](https://img.shields.io/github/languages/top/engcfraposo/Higia-MOBILE?style=flat-square)
+<a href="https://github.com/engcfraposo/Higia-MOBILE/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/engcfraposo/Higia-MOBILEB?style=social">
   </a>
 
 
@@ -34,8 +34,8 @@ atendimento para aqueles com menor condições financeira e segundo momento, B2B
 ## :fire: Prévia da Aplicação
 
 <div align="center" style="margin: 20px;">
-<img alt="Higia-WEB" src="./img/Capture.JPG" width="200vw" heigth="auto"/>
- <img alt="Higia-WEB" src="./img/logo.jfif" width="500vw" heigth="auto"/>
+<img alt="Higia-MOBILE" src="./img/Capture.JPG" width="200vw" heigth="auto"/>
+ <img alt="Higia-MOBILE" src="./img/logo.jfif" width="500vw" heigth="auto"/>
 </div>
 
 ### :rocket: Tecnologias Usadas
@@ -51,7 +51,7 @@ O projeto foi feito com as seguintes tecnologias:
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd Higia-WEB
+$ git clone url-do-seu-fork && cd Higia-MOBILE
 
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
@@ -68,8 +68,8 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ## :zap: Executando o Projeto
 #### Clonando o projeto
 ```sh
-$ git clone https://github.com/engcfraposo/Higia-WEB.git
-$ cd Higia-WEB
+$ git clone https://github.com/engcfraposo/Higia-MOBILE.git
+$ cd Higia-MOBILE
 ```
 
 #### Iniciando o Frontend
