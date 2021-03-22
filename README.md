@@ -29,9 +29,7 @@ forma remota e acessível financeiramente e fomentar uma rede de oportunidades t
 profissionais recém formados em Psicologia como para aqueles que já atuam no mercado e
 desejam uma nova fonte de renda. Dessa forma nossa plataforma consegue fornecer um
 atendimento em primeiro momento B2C que conecta clientes e profissionais de forma a levar o
-atendimento para aqueles com menor condições financeira e segundo momento, B2B2C.
-
-o projeto mobile no <a href="https://www.figma.com/proto/ynM2FVIJB1Qm7X3OdOcwe2/Higia?node-id=1%3A3&viewport=718%2C481%2C1&scaling=scale-down">figma</a>
+atendimento para aqueles com menor condições financeira e segundo momento, B2B2C. o projeto mobile no <a href="https://www.figma.com/proto/ynM2FVIJB1Qm7X3OdOcwe2/Higia?node-id=1%3A3&viewport=718%2C481%2C1&scaling=scale-down">Figma</a>
 
 ## :fire: Prévia da Aplicação
 
