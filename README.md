@@ -8,7 +8,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/engcfraposo/Higia-MOBILE_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=engcfraposo/Higia-MOBILE&amp;utm_campaign=Badge_Grade)
 ![GitHub top language](https://img.shields.io/github/languages/top/engcfraposo/Higia-MOBILE?style=flat-square)
 <a href="https://github.com/engcfraposo/Higia-MOBILE/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/engcfraposo/Higia-MOBILEB?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/engcfraposo/Higia-MOBILE?style=social">
   </a>
 
 
